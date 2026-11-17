@@ -4,7 +4,7 @@
 
 Check a Skill before you install it: manifest, context usage, reference freshness, and conflicts with installed Skills, all computed by code, no guessing.
 
-Live demo: to be added after deployment (GitHub Pages).
+Live demo: https://laomaiai.github.io/skill-check/
 
 ## 2. The problem it solves
 

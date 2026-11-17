@@ -4,7 +4,7 @@
 
 装 Skill 之前先体检：清单、上下文、引用时效、已装冲突，四项全是代码算的，不靠猜。
 
-在线演示：待部署后填写（GitHub Pages）。
+在线演示：https://laomaiai.github.io/skill-check/
 
 ## 2. 它解决什么问题
 
